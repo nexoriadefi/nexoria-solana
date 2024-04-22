@@ -77,7 +77,6 @@ export const legitNFTlist = [
     "DVXjdL9oLu7NUCC7taSF9o8B8s43eapVTkZhM798h1WC",
     "STEPNq2UGeGSzCyGVr2nMQAzf8xuejwqebd84wcksCK",
     "7Ry284LXM6asdCr3dpEbKymi3fvtPBhqpzmkdgmCrY8S",
-    "CLErvyrMpi66RAxNV2wveSi25NxHb8G383MSVuGDgZzp",
     "2P56b67NzKfaCmEzijzujaMjmfniKNKVT4yhoqCG7BY2",
     "6VEPM7YXGF4VKSnugL2RhUs4u5wBB6Uv7yn5kRqJh7rw",
     "FDFA8RVJtGk2f2TA6x1d9anvFicRBbojiH9ajksNPyen",
@@ -85,7 +84,6 @@ export const legitNFTlist = [
     "DSTYpLwKWQoDpLBpp5ZkbzVM6jXCyr2iLtQPpqaXB83g",
     "G9Sxrod2dcEnrt3ePSTXk5K1MiA3829atLxAK4GppPfZ",
     "BjQEGKZQAXUL3axBfA8iwB4pTnQWD4WYQ8Qvcyhwr2Uj",
-    "87TxPqinTYt9kfCABgUMZ5WtvsEs3BPiky9qT7T9WRdf",
     "CZ6go85CYaU3g1pcPtXRH4cH5JGjoBFvCUausVVqvwsZ",
     "337AQyc95nrZ6shrvvAPX1AaSJ4R3WNymPSTax9q5Ug4",
     "22NzGAz8hoHKM8VvNK9KQ7rdAx2WMnbMtc2pJi8zrWEz",
@@ -96,6 +94,6 @@ export const legitNFTlist = [
     "5PUq4VZSbm5ZwrQMh2bHNLM8ca6UieguKiaLRJqp3d75",
     "AsbhrsY4posEBmZ8vyAooKtpvyJoWQWTqsSnnZpDmChn",
     "4pi2MRDQgGVFwV1Hv8ka7hSSu9TgdFmafk6jtQhrB9HN",
-    'GZ9dKMp357jjMohEXrMcd2RJH9fGYq3boeJ2wttpQMuk',
-    "6e4pFfZfoJaPvCAgZpXTdKZtE6XhFqXR2Rp2x5oFLZkA"
+    'GZ9dKMp357jjMohEXrMcd2RJH9fGYq3boeJ2wttpQMuk'
+    
 ]
