@@ -12,7 +12,7 @@ A bunch of tools to help people in the Solana ecosystem. This website includes:
 - More tools are scheduled...
 
 ## Demo:
-- Mainnet: https://nexoria.app/
+- Mainnet: https://nexoria.me/
 
 ## Tips
 Donations can be made at `nexoria.sol` if you are feeling generous and want to support us!
