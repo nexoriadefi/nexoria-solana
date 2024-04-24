@@ -24,8 +24,8 @@ Clone the repo, install the dependencies and run `yarn run dev` to run the devel
 ```bash
 git clone https://github.com/nexoriadefi/nexoria-solana.git
 cd nexoria-solana
-yarn install
-yarn run dev
+pnpm install
+pnpm run dev
 ```
 
 
